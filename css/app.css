@@ -1,3 +1,10 @@
 body {
-    font-family: 'Raleway';font-size: 16px;
+    font-family: 'Raleway';
+    font-size: 16px;
+}
+
+m#yfooter {
+    padding-bottom: 50px;
+    background-color: #2A0C20;
+    /*background-color: gold;*/
 }
