@@ -1,10 +1,21 @@
 body {
     font-family: 'Raleway';
     font-size: 16px;
+    /*background-color:aliceblue;*/
 }
 
-m#yfooter {
-    padding-bottom: 50px;
-    background-color: #2A0C20;
+.mynav {
+   /* background-color:lightskyblue;*/
+    padding: 26px;
+
+}
+/*li a {
+    padding-right:0px;
+}*/
+
+.myfooter {
+    color: white;
+    padding-bottom: 15px;
+    background-color: #424040;
     /*background-color: gold;*/
 }
